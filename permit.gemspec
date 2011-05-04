@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{Handles permissions to resources in declarative }
   s.description = %q{see README}
 
-  s.rubyforge_project = "permit"
+  s.rubyforge_project = "anixe_permit"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
