@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "permit"
   s.version     = Permit::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Piotr Zolnierek"]
+  s.email       = ["pzolnierek@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Handles permissions to resources in declarative }
+  s.description = %q{see README}
 
   s.rubyforge_project = "permit"
 
